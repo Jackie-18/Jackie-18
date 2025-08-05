@@ -1,8 +1,8 @@
 # Hi, I'm Jacquelyn Pohl 👋
 
-🎓 I'm a Math & Computer Science student at McMaster University 
-📊 I’m interested in data science, NLP, and data visualization
-🎭 Outside of tech, I run lighting and sound for musical theatre and fence competitively 🤺�
+- 🎓 I'm a Math & Computer Science student at McMaster University 
+- 📊 I’m interested in data science, NLP, and data visualization
+- 🎭 Outside of tech, I run lighting and sound for musical theatre and fence competitively 🤺�
 
 ---
 
