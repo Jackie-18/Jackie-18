@@ -13,6 +13,11 @@
 
 ---
 
+## 📁 Featured Projects
+- [Dota 2 Message Classification](https://github.com/Multipixels/4nl3-group-project)
+
+---
+
 ## 🌐 How to reach me
 [LinkedIn](https://www.linkedin.com/in/jacquelyn-pohl/)  
 [Email](mailto:jacpohl12@gmail.com)  
